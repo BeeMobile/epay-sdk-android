@@ -1,0 +1,32 @@
+# IDEA Ignores
+*.iml
+*.ipr
+*.iws
+.idea/
+local.properties
+
+# .classpath
+# project.properties
+
+# Generic Android ignores
+bin/
+target
+gen/
+
+.svn/
+
+.metadata/
+
+.DS_Store
+
+.classpath
+project.properties
+.settings/
+
+proguard/
+
+# Mac
+.DS_Store
+
+# Libs
+out/
